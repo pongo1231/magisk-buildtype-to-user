@@ -1,0 +1,7 @@
+id=buildtypeuser
+name=ro.build.type to user
+version=v1
+versionCode=1
+author=pongo1231
+description=Sets ro.build.type to "user"
+minMagisk=1500
